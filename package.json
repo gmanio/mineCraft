@@ -1,0 +1,14 @@
+{
+  "name": "mine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mine.js",
+  "scripts": {
+    "start": "nodemon mine.js"
+  },
+  "author": "gmanPark@2018",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^1.18.7"
+  }
+}
